@@ -96,7 +96,7 @@ traitlets==4.3.3
 urllib3==1.25.8
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 wrapt==1.12.1
 xgboost==1.0.2
 xport==2.0.2
