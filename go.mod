@@ -3,7 +3,7 @@ module github.com/kubeflow/kfserving
 go 1.13
 
 require (
-	cloud.google.com/go/storage v1.11.0
+	cloud.google.com/go/storage v1.29.0
 	github.com/aws/aws-sdk-go v1.31.12
 	github.com/cloudevents/sdk-go v1.2.0
 	github.com/emicklei/go-restful v2.11.0+incompatible // indirect
@@ -12,9 +12,9 @@ require (
 	github.com/go-logr/logr v0.3.0
 	github.com/go-openapi/spec v0.19.6
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.4.2
-	github.com/google/go-cmp v0.5.2
-	github.com/google/uuid v1.1.1
+	github.com/golang/protobuf v1.5.3
+	github.com/google/go-cmp v0.5.9
+	github.com/google/uuid v1.3.0
 	github.com/googleapis/google-cloud-go-testing v0.0.0-20200911160855-bcd43fbb19e8
 	github.com/json-iterator/go v1.1.10
 	github.com/kelseyhightower/envconfig v1.4.0
@@ -24,12 +24,12 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.8.3
 	go.uber.org/zap v1.15.0
-	golang.org/x/net v0.0.0-20200904194848-62affa334b73
-	google.golang.org/api v0.31.0
-	google.golang.org/grpc v1.31.1
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/net v0.9.0
+	google.golang.org/api v0.114.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.30.0
 	istio.io/api v0.0.0-20200715212100-dbf5277541ef
 	istio.io/client-go v0.0.0-20201005161859-d8818315d678
 	istio.io/gogo-genproto v0.0.0-20191029161641-f7d19ec0141d // indirect
