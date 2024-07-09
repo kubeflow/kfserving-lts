@@ -100,4 +100,4 @@ Werkzeug==1.0.1
 wrapt==1.12.1
 xgboost==1.0.2
 xport==2.0.2
-zipp==3.1.0
+zipp==3.19.1
