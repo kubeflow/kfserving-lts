@@ -21,7 +21,7 @@ entrypoints==0.3
 future==0.18.2
 gast==0.3.3
 google-pasta==0.2.0
-grpcio==1.28.1
+grpcio==1.53.2
 h5py==2.10.0
 idna==2.9
 image==1.5.28
